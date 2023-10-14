@@ -1,0 +1,6 @@
+# Create the SVG markup as a string
+svg_content = '''
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="50" x="50" y="25" fill="blue" />
+</svg>
+
