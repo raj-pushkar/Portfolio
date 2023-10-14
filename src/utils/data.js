@@ -1,24 +1,22 @@
 const getMenu = () => ["home", "skills", "projects", "contact"];
 
 const getIdentity = () => ({
-  image: "images/sawan.jpg",
-  welcomeText: "Hi! I'm Sawan Kumar",
+  image: "images/ankit.jpg",
+  welcomeText: "Hi! I'm Ankit Kumar",
   typeWriterText: [
     "Web Developer",
     "problem Solver",
     "Freelance Programmer",
   ],
   descriptionText:
-    "I'm a Computer Science Engineering student at VIT CHENNAI, driven by a passion for technology and coding. Through my academic journey, I aspire to make a meaningful impact in the tech world. This platform shares my experiences and connects me with like-minded individuals on a shared quest for innovation.",
+    "Ankit Kumar here, a CSE student at VIT Chennai specializing in Cyber-Physical Systems. With a passion for technology and innovation, I explore the intricate fusion of the digital and physical world. Eager to bridge the gap between theory and real-world applications. Join me in this journey of knowledge, problem-solving, and the endless possibilities of Cyber-Physical Systems.",
   contactText:
     "I am currently looking for a internship. If you see me as a good fit, feel free to contact me. Let's work together!",
   socialLink: {
-    mail: "sawanrajkk92@gmail.com",
-    resume:
-      "https://drive.google.com/file/d/17hdCLytbJs8TLTmk8ZFFXj5Q-hAkFfgF/view?usp=drive_link",
-    github: "https://github.com/Sawanrajkk",
-    linkedin: "https://www.linkedin.com/in/sawan-kumar-a0aab5220",
-    Instagram: "https://www.instagram.com/sawanrajkk/",
+    mail: "ankitkumarsuman6@gmail.com",
+    resume: "https://drive.google.com/file/d/1M7j4IS-3onkL0qORMGtUMRtdhDhPST03/view?usp=drivesdk",
+    github: "https://github.com/crazzyrainbow",
+    linkedin: "https://www.linkedin.com/in/ankit-kumar-532085221/",
     
   },
 });
