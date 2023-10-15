@@ -1,7 +1,7 @@
 const getMenu = () => ["home", "skills", "projects", "contact"];
 
 const getIdentity = () => ({
-  image: "images/self.jpg",
+  image: "images/project/self.jpg",
   welcomeText: "Hi! I'm Pushkar Raj",
   typeWriterText: [
     "Web Developer",
